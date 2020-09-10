@@ -1,0 +1,16 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/esteban/programs/Vivado/2019.2/bin/unwrapped/lnx64.o/xelab -wto 5654dfb1c848468b935e81e44992159c --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TB_sum4bcc_behav xil_defaultlib.TB_sum4bcc xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'Cin' [/home/esteban/UNAL/AnalogElectrinicsII/MyGitHub/Digital-electronics-ii/Lab_1/sum4bcc/sum4bcc.srcs/sources_1/new/sum4bcc.v:37]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.sum1bit
+Compiling module xil_defaultlib.sum4bcc
+Compiling module xil_defaultlib.TB_sum4bcc
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TB_sum4bcc_behav

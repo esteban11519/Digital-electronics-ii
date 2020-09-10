@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/esteban/UNAL/AnalogElectrinicsII/MyGitHub/Digital-electronics-ii/Lab_1/sum1bit/sum1bit.srcs/sources_1/new/sum1bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sum1bit
+WARNING: [VRFC 10-3380] identifier 'aux_S' is used before its declaration [/home/esteban/UNAL/AnalogElectrinicsII/MyGitHub/Digital-electronics-ii/Lab_1/sum1bit/sum1bit.srcs/sources_1/new/sum1bit.v:18]
+WARNING: [VRFC 10-3380] identifier 'aux_S' is used before its declaration [/home/esteban/UNAL/AnalogElectrinicsII/MyGitHub/Digital-electronics-ii/Lab_1/sum1bit/sum1bit.srcs/sources_1/new/sum1bit.v:19]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/esteban/UNAL/AnalogElectrinicsII/MyGitHub/Digital-electronics-ii/Lab_1/sum4bcc/sum4bcc.srcs/sources_1/new/sum4bcc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sum4bcc
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/esteban/UNAL/AnalogElectrinicsII/MyGitHub/Digital-electronics-ii/Lab_1/sum4bcc/sum4bcc.srcs/sim_1/new/TB_sum4bcc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_sum4bcc
